@@ -1,0 +1,6 @@
+pyaudio
+wave
+openai
+pydub
+tk
+SpeechRecognition
